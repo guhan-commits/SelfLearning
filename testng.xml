@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Browser Suite">
+    <parameter name="browser" value="chrome"/>  <!-- You can change this to firefox or chrome -->
+    <test name="Browser Tests">
+        <classes>
+
+            <class name="Question3"/>
+
+        </classes>
+    </test>
+</suite>
